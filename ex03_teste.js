@@ -5,3 +5,4 @@ s1.exibirProximo();
 s2.exibirProximo();
 s1.exibirProximo();
 s2.exibirProximo();
+//retorna sempre a mesma instância
