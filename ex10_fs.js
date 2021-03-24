@@ -1,6 +1,6 @@
 const fs = require("fs");
-const files = fs.readdirSync(__dirname);
+const file = fs.readdirSync(__dirname);
 
-files.forEach((f) => {
+file.forEach((f) => {
   console.log(f);
 });
