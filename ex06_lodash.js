@@ -1,5 +1,5 @@
 const _ = require("lodash");
-
+console.log("lodash,  ", _);
 const alunos = [
   {
     nome: "hagleyson",
